@@ -9,8 +9,10 @@ You can click the Preview link to take a look at your changes.
 &nbsp; &nbsp; 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=JeaHwan)](https://velog.io/@dbwpghks56) <br>
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dbwpghks56&show_icons=true&theme=dark)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbwpghks56&color=dark)](https://github.com/eungyeole/velog-readme-stats) <br>
-
+<br><br>Spring Boot <br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbwpghks56&color=dark&tag=Spring-boot)](https://github.com/eungyeole/velog-readme-stats) <br>
+<br>Dart & Flutter <br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbwpghks56&color=dark&tag=flutter)](https://github.com/eungyeole/velog-readme-stats) <br>
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,5&height=200&section=footer)
 
 </div>
