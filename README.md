@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dbwpghks56&show_icons=true&theme=dark)<br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dbwpghks56)](https://velog.io/@dbwpghks56) 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbwpghks56&color=dark)](https://github.com/eungyeole/velog-readme-stats) <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dbwpghks56&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dbwpghks56&theme=nord_dark)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dbwpghks56&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,5&height=200&section=footer)<br>
 </div>
