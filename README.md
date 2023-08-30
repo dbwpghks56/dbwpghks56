@@ -9,8 +9,15 @@ You can click the Preview link to take a look at your changes.
 &nbsp; &nbsp; 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=JeaHwan)](https://velog.io/@dbwpghks56) <br>
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dbwpghks56&show_icons=true&theme=dark)<br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dbwpghks56)](https://velog.io/@dbwpghks56) 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbwpghks56&color=dark)](https://github.com/eungyeole/velog-readme-stats) <br>
+<div>
+  <a>
+    <img src="https://velog-readme-stats.vercel.app/api/list?name=dbwpghks56" width="48%" />
+  </a>
+  <a>
+    <img src="https://velog-readme-stats.vercel.app/api?name=dbwpghks56&color=dark" width="48%" />
+  </a>
+</div>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dbwpghks56&theme=nord_dark)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dbwpghks56&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dbwpghks56&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
