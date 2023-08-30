@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dbwpghks56)](https://velog.io/@dbwpghks56) 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dbwpghks56&color=dark)](https://github.com/eungyeole/velog-readme-stats) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dbwpghks56&theme=nord_dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=dbwpghks56&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=dbwpghks56&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dbwpghks56&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,5&height=200&section=footer)<br>
 </div>
