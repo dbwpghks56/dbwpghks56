@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://velog-readme-stats.vercel.app/api/list?name=dbwpghks56" width="48%" />
   </a>
   <a>
-    <img src="https://velog-readme-stats.vercel.app/api?name=dbwpghks56&color=dark" width="48%" />
+    <img src="https://velog-readme-stats.vercel.app/api?name=dbwpghks56" width="48%" />
   </a>
 </div>
 
