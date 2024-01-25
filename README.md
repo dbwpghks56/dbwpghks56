@@ -1,5 +1,4 @@
-# King of Tyrant Horse
-# 레몬 하나에는 레몬 네 개의 비타민이 있다.
+# Try to do better
 <!---
 dbwpghks56/dbwpghks56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
