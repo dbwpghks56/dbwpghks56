@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=JeaHwan)](https://velog.io/@dbwpghks56) <br>
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dbwpghks56&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbwpghks56&hide_progress=true)<br>
+<!--
 <div>
   <a>
     <img src="https://velog-readme-stats.vercel.app/api/list?name=dbwpghks56" width="48%" />
@@ -17,6 +18,10 @@ You can click the Preview link to take a look at your changes.
   <a>
     <img src="https://velog-readme-stats.vercel.app/api?name=dbwpghks56" width="48%" />
   </a>
+</div>
+-->
+<div>
+  <img src="https://leetcode-stats-six.vercel.app/?username=dbwpghks56&theme=dark" width="70%" />
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dbwpghks56&theme=nord_dark)
