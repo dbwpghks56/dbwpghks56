@@ -1,4 +1,7 @@
-# Trying to do better
+# Trying to do better <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" width="10%">
+
+  
+
 <!---
 dbwpghks56/dbwpghks56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
