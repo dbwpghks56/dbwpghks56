@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=JeaHwan)](https://velog.io/@dbwpghks56) <br>
 
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dbwpghks56&show_icons=true&theme=dark" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=dbwpghks56&theme=dark&show_icons=true&rank_icon=github" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbwpghks56&hide_progress=true" align="left" style="width: 90%" />
 </td></tr></table>  
