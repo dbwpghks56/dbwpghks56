@@ -34,7 +34,9 @@ You can click the Preview link to take a look at your changes.
 -->
 <table><tr><td valign="top" width="50%">
 
-<img src="https://leetcode-stats-six.vercel.app/?username=dbwpghks56&theme=dark" align="left" style="width: 100%" />
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/dbwpghks56"/>
+</a>
 
 </td><td valign="top" width="50%">
 
